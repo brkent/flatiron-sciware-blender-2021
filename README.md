@@ -1,5 +1,5 @@
 # Flatiron Tutorials October 2021
-Tutorial for the Flatiron Institute 2021 Sciware talks
+Tutorials for the Flatiron Institute 2021 Sciware talks
 
 Dr. Brian R. Kent, Scientist, National Radio Astronomy Observatory       
 Twitter, Instagram, YouTube:  @VizAstro     
