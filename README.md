@@ -12,9 +12,9 @@ Open Shading Language (OSL): https://github.com/AcademySoftwareFoundation/OpenSh
 
 Blender OSL documentation: https://docs.blender.org/manual/en/latest/render/shader_nodes/osl.html
 
-Tutorial:  https://thhube.github.io/tutorials/osl/osl.html
+OSL Tutorial:  https://thhube.github.io/tutorials/osl/osl.html
   
-Videos and Tutorials:https://www.youtube.com/user/VisualizeAstronomy/videos
+My YouTube channel - videos and tutorials:https://www.youtube.com/user/VisualizeAstronomy/videos
 
 # Publications:
 3D Scientific Visualization with Blender: https://iopscience.iop.org/book/978-1-6270-5612-0
