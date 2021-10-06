@@ -22,12 +22,14 @@ OSL Tutorial:  https://thhube.github.io/tutorials/osl/osl.html
   
 My YouTube channel - videos and tutorials:https://www.youtube.com/user/VisualizeAstronomy/videos
 
-# Publications:
+# Publications and References:
 3D Scientific Visualization with Blender: https://iopscience.iop.org/book/978-1-6270-5612-0
 
 Visualization in Astronomy: https://iopscience.iop.org/journal/1538-3873/page/Techniques-and-Methods-for-Astrophysical-Data-Visualization
 
 Extragalactic Distance Database: https://ui.adsabs.harvard.edu/abs/2009AJ....138..323T/abstract
+
+CT Scan data: http://graphics.stanford.edu/data/voldata/    
 
 360 Video and Spherical Panoramas: https://ui.adsabs.harvard.edu/abs/2017PASP..129e8004K/abstract
 
