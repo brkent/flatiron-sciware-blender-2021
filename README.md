@@ -14,6 +14,11 @@ Demo video: https://www.youtube.com/watch?v=SeWVL90IWfo
 Sciware: http://sciware.flatironinstitute.org/
 
 # Blender resources
+
+BlenderGuru intro: https://www.youtube.com/watch?v=TPrnSACiTJ4&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U
+
+Blender interface intro: https://www.youtube.com/watch?v=bB3qtedwbSI
+
 Open Shading Language (OSL): https://github.com/AcademySoftwareFoundation/OpenShadingLanguage
 
 Blender OSL documentation: https://docs.blender.org/manual/en/latest/render/shader_nodes/osl.html
