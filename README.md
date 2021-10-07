@@ -15,9 +15,9 @@ Sciware: http://sciware.flatironinstitute.org/
 
 # Blender resources
 
-BlenderGuru intro: https://www.youtube.com/watch?v=TPrnSACiTJ4&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U
-
 Blender interface intro: https://www.youtube.com/watch?v=bB3qtedwbSI
+
+BlenderGuru intro: https://www.youtube.com/watch?v=TPrnSACiTJ4&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U
 
 Open Shading Language (OSL): https://github.com/AcademySoftwareFoundation/OpenShadingLanguage
 
