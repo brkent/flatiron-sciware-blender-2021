@@ -22,6 +22,8 @@ Open Shading Language (OSL): https://github.com/AcademySoftwareFoundation/OpenSh
 Blender OSL documentation: https://docs.blender.org/manual/en/latest/render/shader_nodes/osl.html
 
 OSL Tutorial:  https://thhube.github.io/tutorials/osl/osl.html
+
+OpenVDB (not using this today, but is supported by Blender): https://www.openvdb.org/
   
 My YouTube channel - videos and tutorials:https://www.youtube.com/user/VisualizeAstronomy/videos
 
