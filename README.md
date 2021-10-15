@@ -7,11 +7,9 @@ https://www.cv.nrao.edu/~bkent/blender
 
 https://github.com/brkent/flatiron-sciware-blender-2021
 
-https://www.youtube.com/watch?v=SeWVL90IWfo
-
 Demo video: https://www.youtube.com/watch?v=SeWVL90IWfo
 
-Sciware: http://sciware.flatironinstitute.org/
+Sciware website: http://sciware.flatironinstitute.org/
 
 # Blender resources
 
