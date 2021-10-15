@@ -25,6 +25,8 @@ OSL Tutorial:  https://thhube.github.io/tutorials/osl/osl.html
 
 OpenVDB (not using this today, but is supported by Blender): https://www.openvdb.org/
   
+Great AstroPy tutorial on working with FITS cubes: https://learn.astropy.org/rst-tutorials/FITS-cubes.html
+  
 My YouTube channel - videos and tutorials:https://www.youtube.com/user/VisualizeAstronomy/videos
 
 # Publications and References:
