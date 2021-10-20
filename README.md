@@ -40,6 +40,8 @@ CT Scan data: http://graphics.stanford.edu/data/voldata/
 
 360 Video and Spherical Panoramas: https://ui.adsabs.harvard.edu/abs/2017PASP..129e8004K/abstract
 
+Neutral Hydrogen data cubes: https://www2.mpia-hd.mpg.de/THINGS/Data.html
+
 # Visualization Colorimetry
 https://seaborn.pydata.org/
 
